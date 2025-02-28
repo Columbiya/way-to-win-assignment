@@ -1,20 +1,21 @@
-import { AppBar, Box, Link, Toolbar, Typography } from "@mui/material";
+import { AppBar, Box, Toolbar, Typography } from "@mui/material";
+import { Link } from "react-router";
 
 export const Header = () => {
   return (
     <AppBar position="sticky">
       <Toolbar>
         <Typography variant="h4" sx={{ flexGrow: 1 }}>
-          <Link href="/" sx={{ color: "white" }}>
+          <Link to="/" style={{ color: "white" }}>
             Healthcare System
           </Link>
         </Typography>
 
         <Box>
-          <Link href="/doctors" sx={{ color: "white", marginRight: 4 }}>
+          <Link to="/doctors" style={{ color: "white", marginRight: 15 }}>
             Врачи
           </Link>
-          <Link href="/nurses" sx={{ color: "white" }}>
+          <Link to="/nurses" style={{ color: "white" }}>
             Медсестры
           </Link>
         </Box>
