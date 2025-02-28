@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alexander",
+    "lastName": "Ivanov",
+    "patronymic": "Sergeevich",
+    "branch": "cardio",
+    "isHead": true
+  },
+  {
+    "id": 2,
+    "firstName": "Dmitry",
+    "lastName": "Petrov",
+    "patronymic": "Viktorovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 3,
+    "firstName": "Sergey",
+    "lastName": "Sidorov",
+    "patronymic": "Alexandrovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 4,
+    "firstName": "Andrey",
+    "lastName": "Kuznetsov",
+    "patronymic": "Dmitrievich",
+    "branch": "surgeon",
+    "isHead": true
+  },
+  {
+    "id": 5,
+    "firstName": "Vladimir",
+    "lastName": "Smirnov",
+    "patronymic": "Andreevich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 6,
+    "firstName": "Pavel",
+    "lastName": "Popov",
+    "patronymic": "Olegovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 7,
+    "firstName": "Nikolay",
+    "lastName": "Volkov",
+    "patronymic": "Ivanovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 8,
+    "firstName": "Mikhail",
+    "lastName": "Fedorov",
+    "patronymic": "Pavlovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 9,
+    "firstName": "Igor",
+    "lastName": "Morozov",
+    "patronymic": "Nikolaevich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 10,
+    "firstName": "Alexey",
+    "lastName": "Zaitsev",
+    "patronymic": "Sergeevich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 11,
+    "firstName": "Konstantin",
+    "lastName": "Pavlov",
+    "patronymic": "Vladimirovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 12,
+    "firstName": "Viktor",
+    "lastName": "Semenov",
+    "patronymic": "Anatolievich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 13,
+    "firstName": "Yuri",
+    "lastName": "Golubev",
+    "patronymic": "Dmitrievich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 14,
+    "firstName": "Anatoly",
+    "lastName": "Vinogradov",
+    "patronymic": "Ivanovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 15,
+    "firstName": "Oleg",
+    "lastName": "Bogdanov",
+    "patronymic": "Sergeevich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 16,
+    "firstName": "Roman",
+    "lastName": "Vorobyov",
+    "patronymic": "Viktorovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 17,
+    "firstName": "Evgeny",
+    "lastName": "Kozlov",
+    "patronymic": "Alexandrovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 18,
+    "firstName": "Gennady",
+    "lastName": "Titov",
+    "patronymic": "Pavlovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 19,
+    "firstName": "Stanislav",
+    "lastName": "Krylov",
+    "patronymic": "Olegovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 20,
+    "firstName": "Boris",
+    "lastName": "Efimov",
+    "patronymic": "Dmitrievich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 41,
+    "firstName": "Leonid",
+    "lastName": "Kovalenko",
+    "patronymic": "Viktorovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 42,
+    "firstName": "Arkady",
+    "lastName": "Gromov",
+    "patronymic": "Sergeevich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 43,
+    "firstName": "Vadim",
+    "lastName": "Tarasov",
+    "patronymic": "Alexandrovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 44,
+    "firstName": "Ruslan",
+    "lastName": "Belyaev",
+    "patronymic": "Dmitrievich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 45,
+    "firstName": "Timur",
+    "lastName": "Kozlov",
+    "patronymic": "Ivanovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 46,
+    "firstName": "Artem",
+    "lastName": "Gusev",
+    "patronymic": "Olegovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 47,
+    "firstName": "Denis",
+    "lastName": "Klimov",
+    "patronymic": "Pavlovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 48,
+    "firstName": "Maxim",
+    "lastName": "Orlov",
+    "patronymic": "Vladimirovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 49,
+    "firstName": "Fyodor",
+    "lastName": "Antonov",
+    "patronymic": "Nikolaevich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 50,
+    "firstName": "Gleb",
+    "lastName": "Sokolov",
+    "patronymic": "Sergeevich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 51,
+    "firstName": "Kirill",
+    "lastName": "Makarov",
+    "patronymic": "Andreevich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 52,
+    "firstName": "Matvey",
+    "lastName": "Yakovlev",
+    "patronymic": "Dmitrievich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 53,
+    "firstName": "Stepan",
+    "lastName": "Zakharov",
+    "patronymic": "Viktorovich",
+    "branch": "cardio",
+    "isHead": false
+  },
+  {
+    "id": 54,
+    "firstName": "Vasily",
+    "lastName": "Kiselev",
+    "patronymic": "Alexandrovich",
+    "branch": "surgeon",
+    "isHead": false
+  },
+  {
+    "id": 55,
+    "firstName": "Yaroslav",
+    "lastName": "Novikov",
+    "patronymic": "Ivanovich",
+    "branch": "cardio",
+    "isHead": false
+  }
+]

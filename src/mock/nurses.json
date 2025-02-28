@@ -1,0 +1,247 @@
+[
+  {
+    "id": 21,
+    "firstName": "Anna",
+    "lastName": "Kozlova",
+    "patronymic": "Andreevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 22,
+    "firstName": "Elena",
+    "lastName": "Morozova",
+    "patronymic": "Vladimirovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 23,
+    "firstName": "Tatiana",
+    "lastName": "Pavlova",
+    "patronymic": "Nikolaevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 24,
+    "firstName": "Svetlana",
+    "lastName": "Fedorova",
+    "patronymic": "Alexandrovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 25,
+    "firstName": "Natalia",
+    "lastName": "Volkova",
+    "patronymic": "Sergeevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 26,
+    "firstName": "Irina",
+    "lastName": "Sokolova",
+    "patronymic": "Igorevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 27,
+    "firstName": "Yulia",
+    "lastName": "Lebedeva",
+    "patronymic": "Olegovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 28,
+    "firstName": "Ekaterina",
+    "lastName": "Kuzmina",
+    "patronymic": "Pavlovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 29,
+    "firstName": "Ludmila",
+    "lastName": "Vinogradova",
+    "patronymic": "Vasilievna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 30,
+    "firstName": "Galina",
+    "lastName": "Bogdanova",
+    "patronymic": "Mikhailovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 31,
+    "firstName": "Valentina",
+    "lastName": "Guseva",
+    "patronymic": "Anatolievna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 32,
+    "firstName": "Marina",
+    "lastName": "Titova",
+    "patronymic": "Viktorovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 33,
+    "firstName": "Nina",
+    "lastName": "Krylova",
+    "patronymic": "Sergeevna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 34,
+    "firstName": "Oksana",
+    "lastName": "Egorova",
+    "patronymic": "Dmitrievna",
+    "branch": "cardio"
+  },
+  {
+    "id": 35,
+    "firstName": "Vera",
+    "lastName": "Sorokina",
+    "patronymic": "Andreevna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 36,
+    "firstName": "Zoya",
+    "lastName": "Komarova",
+    "patronymic": "Nikolaevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 37,
+    "firstName": "Alla",
+    "lastName": "Orlova",
+    "patronymic": "Vladimirovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 38,
+    "firstName": "Larisa",
+    "lastName": "Gorbacheva",
+    "patronymic": "Alexandrovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 39,
+    "firstName": "Raisa",
+    "lastName": "Potapova",
+    "patronymic": "Igorevna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 40,
+    "firstName": "Tamara",
+    "lastName": "Mironova",
+    "patronymic": "Pavlovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 56,
+    "firstName": "Lyudmila",
+    "lastName": "Kovaleva",
+    "patronymic": "Viktorovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 57,
+    "firstName": "Nadezhda",
+    "lastName": "Gromova",
+    "patronymic": "Sergeevna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 58,
+    "firstName": "Viktoria",
+    "lastName": "Tarasova",
+    "patronymic": "Alexandrovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 59,
+    "firstName": "Snezhana",
+    "lastName": "Belyaeva",
+    "patronymic": "Dmitrievna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 60,
+    "firstName": "Ksenia",
+    "lastName": "Kozlova",
+    "patronymic": "Ivanovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 61,
+    "firstName": "Margarita",
+    "lastName": "Guseva",
+    "patronymic": "Olegovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 62,
+    "firstName": "Elizaveta",
+    "lastName": "Klimova",
+    "patronymic": "Pavlovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 63,
+    "firstName": "Polina",
+    "lastName": "Orlova",
+    "patronymic": "Vladimirovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 64,
+    "firstName": "Veronika",
+    "lastName": "Antonova",
+    "patronymic": "Nikolaevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 65,
+    "firstName": "Alina",
+    "lastName": "Sokolova",
+    "patronymic": "Sergeevna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 66,
+    "firstName": "Diana",
+    "lastName": "Makarova",
+    "patronymic": "Andreevna",
+    "branch": "cardio"
+  },
+  {
+    "id": 67,
+    "firstName": "Karina",
+    "lastName": "Yakovleva",
+    "patronymic": "Dmitrievna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 68,
+    "firstName": "Lilia",
+    "lastName": "Zakharova",
+    "patronymic": "Viktorovna",
+    "branch": "cardio"
+  },
+  {
+    "id": 69,
+    "firstName": "Anfisa",
+    "lastName": "Kiseleva",
+    "patronymic": "Alexandrovna",
+    "branch": "surgeon"
+  },
+  {
+    "id": 70,
+    "firstName": "Zlata",
+    "lastName": "Novikova",
+    "patronymic": "Ivanovna",
+    "branch": "cardio"
+  }
+]
